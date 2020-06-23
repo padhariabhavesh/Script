@@ -1,4 +1,4 @@
-# Bhavesh Padharia
+# @Bhavesh Padharia
 # Download images from google using python
 
 import requests
