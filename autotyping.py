@@ -3,9 +3,7 @@
 #Auto typing in python
 
 import pyautogui
-pyautogui.typewrite('bhavesh pdharia')
 
-pyautogui.typewrite('bhavesh padharia ', interval=0.25)
+pyautogui.typewrite('bhavesh padharia ', interval=0.25) # enter the text you want to autotype
 
-'''Prints out 'bhavesh padharia' with a quarter second delay after each character  '''
 
